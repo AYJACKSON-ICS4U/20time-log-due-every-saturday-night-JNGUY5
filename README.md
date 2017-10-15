@@ -9,5 +9,10 @@ Saturday September 30 2017-This was my first week of doing my times 20 project. 
 
 ### 20Time-ICS4U WEEK 2
 
-_ICS4U week 1 page_
+_ICS4U week 2 page_
 saturday september 7 2017 -this week was my second week of ruby and it was very interesting and fun. I got to work on the same stuff, just improving and learning. It is an interesting concept, having everything being objects or having values. This is all very new to me but it is good to learn and I look forwards to continuing. I solved more challenges, but some i needed to look at the answer because I did not understand, however after I looked I understood.
+
+### 20-time-ICS4U WEEK 3
+
+This is week 3 of my 20 time project. I was working on learning sting in ruby, and the various comands. I had to learn how to first output string, but then some more complex things. I needed to find the length, check if the string was in something, and changing cases. I did this using things like .downcase and .end_with?  and various other things.A cool thing that I learnt is that when it has a '?' at the end, it is because is has to know to indicate a boolean. So in end_with? is has a question mark because it is a yes or no answer, either it ends with the thing or not. This is unlike downcaps because .downcaps or .swapcaps because those actually change the string. The site wanted me to try and figure out myself how to do what it was asking, but it never showed the comand or what to do, so sometime i would have to get the answer from the site. I eventually picked up on the pattern of what to do, and i was able to complete the challenges.
+
