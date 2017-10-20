@@ -19,4 +19,5 @@ This is week 3 of my 20 time project. I was working on learning sting in ruby, a
 ### 20-time-ICS4U WEEK 4 :)
 
 ![10 print](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202017-10-20%20at%209.22.31%20AM.png)
+This is just a small picture of a code calculator that I made. It was a challenge that I decided to start, to test what i learned. I also learnt a better and reliable way to put a picture in read me. You can first save your picture to your desktop or somewhere on your computer, than upload the picture to github in a seperate file. After that, you copie the link to that website, and do the same code as before and put new link in. That way it is more reliable than a random picture website, and it local on github, so idealy if someone wanted, they could just look at the photo in the file in the **_same_** repo.
 
