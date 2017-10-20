@@ -16,3 +16,7 @@ saturday september 7 2017 -this week was my second week of ruby and it was very 
 
 This is week 3 of my 20 time project. I was working on learning sting in ruby, and the various comands. I had to learn how to first output string, but then some more complex things. I needed to find the length, check if the string was in something, and changing cases. I did this using things like .downcase and .end_with?  and various other things.A cool thing that I learnt is that when it has a '?' at the end, it is because is has to know to indicate a boolean. So in end_with? is has a question mark because it is a yes or no answer, either it ends with the thing or not. This is unlike downcaps because .downcaps or .swapcaps because those actually change the string. The site wanted me to try and figure out myself how to do what it was asking, but it never showed the comand or what to do, so sometime i would have to get the answer from the site. I eventually picked up on the pattern of what to do, and i was able to complete the challenges.
 
+### 20-time-ICS4U WEEK 4 :)
+
+![10 print](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202017-10-20%20at%209.22.31%20AM.png)
+
