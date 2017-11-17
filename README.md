@@ -25,7 +25,18 @@ In this picture you can see what the answer is, and how the hint was really help
 
 
 
-### 20-time project 
+### 20-time-ICS4U WEEK 5 :)
 This is a bit late of a log but on purpose. Unfortunantly RubyMonk.com is not eccessable. When I try to go to the website it says that its certificate has expired and can no longer be rached because of fear of safety or somthing. I have waited a while for it to go back up, but nothing yet. I am currently looking for a new website to learn ruby on since this website will not suffice. It is a sad day but this is reality. Hopefuly my next log can be better, where ruby monk is now up or I have moved on from this website and started learning somewhere else. 
+
+### 20-time-ICS4U WEEK 6 :)
+
+This Week I was still searching. Kept trying rubymonk but they still were down I got a few sugestions and i tried ruby koans. This site was frustrating to do because theinstructions were not clear. It wantd me to do installing using terminal. I told me to install VIM or something first, and click the link to install using termial. I put in the code for termial that it told me to do, but the first line didnt work. I didnt know what tot do s I put the second line in first and it worked but when I tried the firs ine again, it still didn't work. I just continued but the instructions were not clear.  I'm still trying.
+
+
+### 20-time-ICS4U WEEK 7 :)
+Update ruby monk is back up. Im gonna do it for this week now.
+
+
+### 20-time-ICS4U WEEK 8  :)
 
 
