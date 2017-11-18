@@ -34,7 +34,7 @@ This Week I was still searching. Kept trying rubymonk but they still were down I
 
 
 ### 20-time-ICS4U WEEK 7 :)
-Update ruby monk is back up. Im gonna do it for this week now. Today I tried some lesons. I was working on string commands, but more complex. For example I would be working on finsing sertain characters in a string. I wanted to do a challenge/problem instead of a lesson, however it was very complex. It said I have not learned the things yet, so I should keep doing lessons until I have the knowledge.
+Update ruby monk is back up. Im gonna do it for this week now. Today I tried some lesons. I was working on string commands, but more complex. For example I would be working on finsing sertain characters in a string. I wanted to do a challenge/problem instead of a lesson, however it was very complex. It said I have not learned the things yet, so I should keep doing lessons until I have the knowledge. I continued lessons and learned things like else and if. I also learned what unless does, and that ? means then and : means else . I know these will be very uefull because else and if statements are very frequent in coding and will be needed alot.
 
 
 ### 20-time-ICS4U WEEK 8  :)
