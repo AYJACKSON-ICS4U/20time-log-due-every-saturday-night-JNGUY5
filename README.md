@@ -38,5 +38,5 @@ Update ruby monk is back up. Im gonna do it for this week now. Today I tried som
 
 
 ### 20-time-ICS4U WEEK 8  :)
-
+ This weak i worked on multiple things. Also the site is now working which is very good. I worked on learning stings and booleans but more advanced expressions. This was sometimes challenging because there is a lot of thinking and percision needed. Also Rubymonk is a very good site and make sure you understand, but for some of the  lessons, to get the right answer you have to do some experimenting which can be difficult. to finish the lesson off I decided to do a challenge. What the challenge wanted was for me to write an expression to narrow down a group of applicants to see who they should hire. There were specifications which were hard, but there were also specifications I had to write where it was an or statement, which added complexity. I finished the challenge after a few tries and got it working.
 
