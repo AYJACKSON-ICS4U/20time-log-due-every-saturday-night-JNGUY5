@@ -1,6 +1,6 @@
-## 20Time-ICS4U
-_ICS4U starter page_
-Saturday September 23 2017-My time 20 project has to do with ruby. I plan to learn ruby using ruby monk at Rubymonk.com. I also want to use  http://rubykoans.com/ to practice ruby. I plan on working with these sites to build my knowedge on ruby so I can work on a project using ruby as my end goal. I also want to learn ruby railroad. I still need to find something to make with ruby but I was thinking of making a website.
+# 20Time-ICS4U
+>_ICS4U starter page_
+>Saturday September 23 2017-My time 20 project has to do with ruby. I plan to learn ruby using ruby monk at Rubymonk.com. I >also want to use  http://rubykoans.com/ to practice ruby. I plan on working with these sites to build my knowedge on ruby so >I can work on a project using ruby as my end goal. I also want to learn ruby railroad. I still need to find something to make >with ruby but I was thinking of making a website.
 
 ### 20Time-ICS4U WEEK 1
 
@@ -39,4 +39,7 @@ Update ruby monk is back up. Im gonna do it for this week now. Today I tried som
 
 ### 20-time-ICS4U WEEK 8  :)
  This weak i worked on multiple things. Also the site is now working which is very good. I worked on learning stings and booleans but more advanced expressions. This was sometimes challenging because there is a lot of thinking and percision needed. Also Rubymonk is a very good site and make sure you understand, but for some of the  lessons, to get the right answer you have to do some experimenting which can be difficult. to finish the lesson off I decided to do a challenge. What the challenge wanted was for me to write an expression to narrow down a group of applicants to see who they should hire. There were specifications which were hard, but there were also specifications I had to write where it was an or statement, which added complexity. I finished the challenge after a few tries and got it working.
+ Below is a photo of the code that I have coded. :smile:
+ 
+![ruby code](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-04%20at%209.57.33%20PM.png)
 
