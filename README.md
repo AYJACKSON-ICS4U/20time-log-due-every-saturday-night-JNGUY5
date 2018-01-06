@@ -42,4 +42,15 @@ Update ruby monk is back up. Im gonna do it for this week now. Today I tried som
  Below is a photo of the code that I have coded. :smile:
  
 ![ruby code](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-04%20at%209.57.33%20PM.png)
+### 20-time-ICS4U WEEK 9  :)
+This week was another fun week working on my 20time project. This week in Ruby I was learning arrays, and i realized how it was like other langages like java. I learnt how to do things like find get a specifit place of an array, and aslo create an array. Something different is that in Ruby it is a lot easier to add things or modify. Something that is different from java, and probably most languages from my knowledge, is that you ca actually cound backwards, from the end of the array. If you put a _-_ infront of the ammount you want to go back. You can see this in an immage below :eyes:
 
+
+![ruby](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-05%20at%2012.38.46%20PM.png)
+
+
+I also said its easier to change arrays because to add something to an array, you either have to put _<<_ or _.push_ 
+as you can see below.
+
+
+![ruby](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-06%20at%208.15.50%20AM.png)
