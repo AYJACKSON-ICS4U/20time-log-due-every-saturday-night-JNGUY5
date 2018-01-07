@@ -54,3 +54,28 @@ as you can see below.
 
 
 ![ruby](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-06%20at%208.15.50%20AM.png)
+
+### 20-time-ICS4U WEEK 10  :) :smile:
+This week I aslo refined my skills of arrays in ruby, but the arrays changing I practiced were more advanced. This week I worked on transforming elements in arrays, filtering elements in arrays, and also deleting elements or parts of an array. I noticed that this can be very usefull because of how easy it is, and also this is unique from other languages. Because arrays don't have to have a set length, it is easy to delete elements of the array. I first learned transforming arrays. The code needed was the array, then .map (or .collect)then { |i| i + 1 } where i is the intiger in the array, and can be anything i beleive, and the +1 is what happens to the numbers, so it can be multipied by or divided or anything. Below is an example of transforming arrays
+
+![arrays ruby](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-07%20at%2012.14.42%20AM.png)
+As you can see :eyes: I multiplied everythig in the array by 3
+
+I then worked on filtering elements. This wasn't too chalening because ruby monk gave a sample example that I could modify.  
+Here is the code for one
+
+names = ['rock', 'paper', 'scissors', 'lizard', 'spock'] 
+names.select {|inty| inty.length > 5}
+
+So you do .select and use that methose on the array,  then you create the variable for in array, and it can be anything because i cahged to _inty_ and it sill worked. Anyways you then put the conditions of what ypu want to select, so there it is variable, then the length is longer than 5 so scissors and lizard is outputed. 
+
+After this I worked on deleting elements. Now this one was tought, not because of complexity but because it was different from the others. They did not give a sample so i had to guesse,because the hint also was deceptive. Anyways what is different is the the you do .delete instead of .select or .map, which is not too hard, but what is very different is there is no {|i| i+1} or whatever. You simply just put what you want deleted. when I think about it I guesse that might work but that is not what was the right answer. it got me just to do [1,3,5,4,6,7].delete 5 as you can maybe see better in the photo I will put underneath. 
+
+![ruby deleting in arrays](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-07%20at%2012.25.16%20AM.png)
+
+I learnt about snake casing , where you_add_enderscores_to_make_it_longer_like_this_I_hope_its_not_italycs_markdown . 
+To finish this lesson off I had a challenge where I had to delete all the even numbers from the given array. After one or two tries(because i didnt read the question right) I got the correct answer and I was happy. I will put another photo below.
+
+![ruby](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-07%20at%2012.32.28%20AM.png)
+
+As you can see in the code, the condition is if divided by 2, when the remainder is 0, it will be divided. I believe in java or c++ this is called mod...  Anyways this is one of the first times I used it too but I now see why it can be usefull.
