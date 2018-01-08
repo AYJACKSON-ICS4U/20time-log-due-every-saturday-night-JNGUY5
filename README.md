@@ -79,3 +79,59 @@ To finish this lesson off I had a challenge where I had to delete all the even n
 ![ruby](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-07%20at%2012.32.28%20AM.png)
 
 As you can see in the code, the condition is if divided by 2, when the remainder is 0, it will be divided. I believe in java or c++ this is called mod...  Anyways this is one of the first times I used it too but I now see why it can be usefull.
+
+
+---
+### 20-time-ICS4U WEEK 10  :) :smile:
+
+This week I still used Ruby Monk, and I was still doing arrays. This time it was more complicated. I was working on the for loos in arrays. This is tought because it isn't like arrays or loops in java, and I just got a bit confused, and also the questions were worded a bit weirdly.                    
+array = [1, 2, 3, 4, 5]
+for i in array
+  puts i
+end
+
+this is a simple code to output the array, and the output would be   :eyes::point_down:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+I a also had to use for loops to add numbers to an array, which I found a bit confusing at firts. The code is below 
+
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
+
+![ruby for loops array](https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-JNGUY5/blob/master/Screen%20Shot%202018-01-08%20at%2010.02.17%20AM.png)
+
+As you can see, I start the for loops for all the essentially the length of array, then for each number there is an iff statement so it appends to new array if the number is less than 4. I worked on also using each instead, and it does the same thing. So here is what the code would look like
+
+def array_copy(source)
+
+  destination = []
+  
+  source.each do |number|
+  
+   #Add nuber to destination if number is
+   
+   #is less than4
+  
+  destination << number if number < 4
+   
+   end
+  
+  return destination
+  
+  end
+
+
+
+and it would return 
+
+passing [1, 2, 3, 4, 5] to array_copy returns [1,2,3] ✔
+
+passing [-23, 12, 0, 19] to array_copy returns [-23, 0] ✔
