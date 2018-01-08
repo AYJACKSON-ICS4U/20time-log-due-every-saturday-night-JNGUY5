@@ -110,23 +110,23 @@ I a also had to use for loops to add numbers to an array, which I found a bit co
 
 As you can see, I start the for loops for all the essentially the length of array, then for each number there is an iff statement so it appends to new array if the number is less than 4. I worked on also using each instead, and it does the same thing. So here is what the code would look like
 
-def array_copy(source)
+>def array_copy(source)
 
-  destination = []
+>  destination = []
   
-  source.each do |number|
+  >source.each do |number|
   
-   #Add nuber to destination if number is
+   >#Add nuber to destination if number is
    
-   #is less than4
+   >#is less than4
   
-  destination << number if number < 4
+  >destination << number if number < 4
    
-   end
+   >end
   
-  return destination
+  >return destination
   
-  end
+ > end
 
 
 
